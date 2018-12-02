@@ -1,0 +1,11 @@
+ nav {
+ 	color: red;
+ 	width: 200px;
+ 	height: 100px;
+ 	background-color: red;
+ 	border: 5px solid green;
+ }
+ ul{
+ 	list-style-type: none;
+
+ }
